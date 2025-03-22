@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-| 25.04.2021 23:00|  10       |
+| 10.05.2025 23:00|  10       |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
